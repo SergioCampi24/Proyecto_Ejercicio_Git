@@ -15,6 +15,8 @@ public class ProyectEjGit {
      */
     public static void main(String[] args) {
         System.out.println("Ej git sergio");    
+        System.out.println("buenas");
+        System.out.println("noches");
     }
     
 }
